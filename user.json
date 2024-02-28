@@ -4,6 +4,7 @@
 	"devices": {
 			"device1":"iPhone 12 pro",
 			"device2": "Android 9"
+			"device3": "iPad"	
 	}
 
 }
