@@ -1,0 +1,9 @@
+{
+	"person_name": "Anton",
+	"age": 32,
+	"devices": {
+			"device1":"iPhone 12 pro",
+			"device2": "Android 9"
+	}
+
+}
